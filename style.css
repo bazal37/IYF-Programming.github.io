@@ -118,15 +118,6 @@ html {
 
 /* header styling ends */
 
-/* slider styling start */
-.slider {
-  background-color: aqua;
-  width: 100%;
-  height: 400px;
-}
-
-/* slider styling ends */
-
 /* third sectiion style start */
 .content {
   display: flex;
